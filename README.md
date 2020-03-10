@@ -6,6 +6,7 @@ with the following rules for creating the nodes below:
 The value of the left-hand node below a/b is a/a+b. 
 The value of the right-hand node below a/b is a+b/b. 
 So the tree will look like this: 
+
                          1/1             
                      /           \             
                 1/2                 2/1         
